@@ -1,0 +1,9 @@
+.auth-page { min-height: 100%; display: grid; place-items: center; padding: 1.5rem; }
+.auth-card {
+  width: 100%; max-width: 400px; background: var(--surface);
+  border: 1px solid var(--line); border-radius: 12px; padding: 2rem;
+}
+.auth-card h1 { margin-bottom: 1rem; }
+.auth-card label { display: block; font-weight: 600; font-size: 0.9rem; margin: 0.9rem 0 0.3rem; }
+.auth-card .btn { margin-top: 1.25rem; }
+.auth-switch { text-align: center; color: var(--muted); margin: 1rem 0 0; }
