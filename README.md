@@ -91,3 +91,7 @@ Responses: `{ "success": true, "data": {...} }` or `{ "success": false, "message
 6. Type in the editor: one request about 1.5 s after you stop typing; status moves Typing… → Saving… → ✓ Saved. Stop the backend to see the Error state.
 7. Search `hooks` with tag `react`: results must match both.
 8. Resize to phone width: the sidebar becomes a slide-in menu.
+
+
+Auther :
+HiteshAmbaliya7
